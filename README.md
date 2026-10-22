@@ -1,3 +1,4 @@
+<div align="center">
 
   <h1>🌍 TP6 : Infrastructure as Code avec Terraform</h1>
   <p><strong>Gestion d'infrastructure avec Terraform, Docker, Vagrant et Ansible</strong></p>
